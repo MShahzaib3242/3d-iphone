@@ -4,7 +4,7 @@
 
 ![alt text](https://raw.githubusercontent.com/MShahzaib3242/3d-iphone/master/public/assets/images/iPhone.gif)
 
-View [LIVE DEMO](https://glowingborder.vercel.app/)
+View [LIVE DEMO](https://3d-iphone-three.vercel.app/)
 
 Before starting the project, install the required packages by running this command:
 
